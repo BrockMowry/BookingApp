@@ -11,10 +11,10 @@ My first app made with Flutter, 'bookingapp' allows users to book and manage app
 
 
 ## TODO
-* Improve/refactor some of the code.\n
-* Reducing loading times, especially for slower connections.\n
-* Add a little bit of colour to the UI; seems a little bit boring.\n
-* Add more to the TODO...\n
+* Improve/refactor some of the code.
+* Reducing loading times, especially for slower connections.
+* Add a little bit of colour to the UI; seems a little bit boring.
+* Add more to the TODO...
 
 ## Screenshots
 <a href="https://ibb.co/47yVNC8"><img src="https://i.ibb.co/PNp6CJc/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-06-25-at-03-42-43.png" alt="Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-06-25-at-03-42-43" border="0"></a>
